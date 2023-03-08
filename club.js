@@ -1,4 +1,5 @@
 <script type="text/javascript">  
 document.write("JavaScript is a simple language for javatpoint learners");  
-<!-- edited in main -->
+12345
+//новая строка
 </script>  
